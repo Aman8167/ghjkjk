@@ -1,0 +1,32 @@
+.custom-card {
+    width:80%;
+    background-color: skyblue;
+   margin:auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding:10px;
+    transition: 0.3s;
+    
+  }
+  
+  .custom-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  .container-fluid{
+    width:100%;
+    background-color: skyblue;
+    height:120vh;
+  }
+
+.card-body{
+    border:0px solid silver;
+    height:8rem;
+}
+.card-body1{
+  border:0px solid silver;
+  height:8rem;
+ 
+}
+.card-body1 button{
+  color:white;
+}
